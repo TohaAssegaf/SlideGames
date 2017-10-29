@@ -3,7 +3,9 @@ using System.Collections;
 
 public class ST_PuzzleTile : MonoBehaviour 
 {
-	// the target position for this tile.
+	//example
+	public Vector2 TargetOk;
+
 	public Vector3 TargetPosition;
 
 	// is this an active tile?  usually one per game is inactive.
