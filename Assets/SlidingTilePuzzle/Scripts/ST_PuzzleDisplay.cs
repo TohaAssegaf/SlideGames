@@ -5,6 +5,7 @@ using System.Collections.Generic;
 public class ST_PuzzleDisplay : MonoBehaviour 
 {
 	// this puzzle texture.
+	// INI puzzle
 	public Texture PuzzleImage;
 
 	// the width and height of the puzzle in tiles.
